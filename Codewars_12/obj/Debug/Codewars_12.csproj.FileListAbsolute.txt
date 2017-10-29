@@ -1,0 +1,6 @@
+C:\valexproject\Codewars\Codewars_12\obj\Debug\Codewars_12.csprojResolveAssemblyReference.cache
+C:\valexproject\Codewars\Codewars_12\bin\Debug\Codewars_12.exe.config
+C:\valexproject\Codewars\Codewars_12\bin\Debug\Codewars_12.exe
+C:\valexproject\Codewars\Codewars_12\bin\Debug\Codewars_12.pdb
+C:\valexproject\Codewars\Codewars_12\obj\Debug\Codewars_12.exe
+C:\valexproject\Codewars\Codewars_12\obj\Debug\Codewars_12.pdb

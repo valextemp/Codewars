@@ -1,0 +1,6 @@
+C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_4\bin\Debug\Codewars_4.exe.config
+C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_4\bin\Debug\Codewars_4.exe
+C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_4\bin\Debug\Codewars_4.pdb
+C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_4\obj\Debug\Codewars_4.csprojResolveAssemblyReference.cache
+C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_4\obj\Debug\Codewars_4.exe
+C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_4\obj\Debug\Codewars_4.pdb
