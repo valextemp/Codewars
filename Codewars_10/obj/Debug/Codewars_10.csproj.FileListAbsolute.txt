@@ -4,3 +4,10 @@ C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_10\bi
 C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_10\obj\Debug\Codewars_10.csprojResolveAssemblyReference.cache
 C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_10\obj\Debug\Codewars_10.exe
 C:\Users\valexuser\Documents\Visual Studio 2015\Projects\Codewars\Codewars_10\obj\Debug\Codewars_10.pdb
+F:\0_valexproject\0_Codewars\Codewars_10\bin\Debug\Codewars_10.exe.config
+F:\0_valexproject\0_Codewars\Codewars_10\bin\Debug\Codewars_10.exe
+F:\0_valexproject\0_Codewars\Codewars_10\bin\Debug\Codewars_10.pdb
+F:\0_valexproject\0_Codewars\Codewars_10\obj\Debug\Codewars_10.csprojAssemblyReference.cache
+F:\0_valexproject\0_Codewars\Codewars_10\obj\Debug\Codewars_10.csproj.CoreCompileInputs.cache
+F:\0_valexproject\0_Codewars\Codewars_10\obj\Debug\Codewars_10.exe
+F:\0_valexproject\0_Codewars\Codewars_10\obj\Debug\Codewars_10.pdb

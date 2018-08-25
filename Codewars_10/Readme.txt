@@ -11,6 +11,7 @@ https://social.msdn.microsoft.com/Forums/ru-RU/f3e732e5-ec07-4d2f-9602-7e1441fdc
         public static string AddBinary(int a, int b)
         {
             return Convert.ToString(a + b, 2);
+			//
         }
 =======================================
 Лучшее решение

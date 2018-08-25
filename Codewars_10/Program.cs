@@ -15,6 +15,8 @@ namespace Codewars_10
             //Console.WriteLine(ba.ToString());
 
             Console.WriteLine(AddBinary(2,2));
+            //comment in branch develop
+            //secoment in branch develop
 
             Console.ReadLine();
         }
