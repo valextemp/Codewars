@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars_11", "Codewars_11\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars_12", "Codewars_12\Codewars_12.csproj", "{210E4239-C4EC-492F-8D6A-13D56490149B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars_13", "Codewars_13\Codewars_13.csproj", "{6EB4C5EE-58DB-46E6-9D68-196D4367FD17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,8 +83,15 @@ Global
 		{210E4239-C4EC-492F-8D6A-13D56490149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{210E4239-C4EC-492F-8D6A-13D56490149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{210E4239-C4EC-492F-8D6A-13D56490149B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB4C5EE-58DB-46E6-9D68-196D4367FD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB4C5EE-58DB-46E6-9D68-196D4367FD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB4C5EE-58DB-46E6-9D68-196D4367FD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB4C5EE-58DB-46E6-9D68-196D4367FD17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99032192-410E-4358-80F4-9ABC1B4B906C}
 	EndGlobalSection
 EndGlobal
