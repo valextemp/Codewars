@@ -17,7 +17,7 @@ public static class Kata
         public static int GetVowelCount(string str)
         {
                 int ii = 0;
-                ii= str.Count()
+                ii = str.Count();
             int vowelCount = 0;
             vowelCount = Regex.Matches(str, "[aeiou]", RegexOptions.IgnoreCase).Count;
             return vowelCount;
